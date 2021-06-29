@@ -1,0 +1,35 @@
+@media only screen and(max-width:999px){
+.container{
+width:750px;
+}
+}
+@media only screen and(max-width:1199px){
+.container{
+width:970px;
+}
+.navigation{
+flex-direction: column;
+margin-buttom:23px;
+}
+.content4{
+flex-direction:column;
+height:auto;
+}
+.content5{
+flex-direction:column;
+height:auto;
+}
+.footer{
+flex-direction:column;
+height:auto;
+align-items:center;
+text-align:center;
+width:auto;
+}
+.footer f2{
+flex-direction:column;
+}
+.footer2{
+height:auto;
+}
+}
